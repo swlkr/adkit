@@ -10,13 +10,13 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Easy marketing calculations}
   spec.description   = %q{A bundle of common marketing calculations}
-  spec.homepage      = "https://github.com/getletterpress/adkit"
+  spec.homepage      = "https://github.com/swlkr/adkit"
   spec.license       = "MIT"
 
   if spec.respond_to?(:metadata)
     spec.metadata["homepage_uri"] = spec.homepage
-    spec.metadata["source_code_uri"] = "https://github.com/getletterpress/adkit"
-    spec.metadata["changelog_uri"] = "https://github.com/getletterpress/adkit/CHANGELOG.md"
+    spec.metadata["source_code_uri"] = "https://github.com/swlkr/adkit"
+    spec.metadata["changelog_uri"] = "https://github.com/swlkr/adkit/CHANGELOG.md"
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
       "public gem pushes."
